@@ -1,0 +1,11 @@
+.card{
+    width: 100%;
+    border: 1px solid #000;
+    background-color: #000;
+}
+#lab{
+    font-size: bold;
+}
+.btn{
+    justify-content: center;
+}
